@@ -12,7 +12,6 @@ export function Chat() {
     api: '/api/chat'
   })
 
-
   return (
     <Card className="w-[600px]">
         <CardHeader>
