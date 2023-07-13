@@ -27,14 +27,14 @@ export function Chat() {
                 {message.role === 'user' && (
                   <Avatar>
                   <AvatarFallback>DA</AvatarFallback>
-                  <AvatarImage src="https://github.com/AbraoDaniel.png"></AvatarImage>
+                  <AvatarImage src="https://avatars.githubusercontent.com/u/83662512?s=200&v=4"></AvatarImage>
                 </Avatar>
                 )}
 
                 {message.role === 'assistant' && (
                   <Avatar>
                   <AvatarFallback>AI</AvatarFallback>
-                  <AvatarImage src="https://github.com/lucaswork.png"></AvatarImage>
+                  <AvatarImage src="https://avatars.githubusercontent.com/u/65192718?v=4"></AvatarImage>
                 </Avatar>
                 )}
                 <p className="leading-relaxed">
