@@ -16,8 +16,8 @@ export function Chat() {
   return (
     <Card className="w-[600px]">
         <CardHeader>
-          <CardTitle>Chat AI</CardTitle>
-          <CardDescription>Creating a chat bot</CardDescription>
+          <CardTitle>The BearClopediaAI</CardTitle>
+          <CardDescription>Ask something to the bear</CardDescription>
         </CardHeader>
         <CardContent>
           <ScrollArea className="h-[600px] w-full pr-4">
